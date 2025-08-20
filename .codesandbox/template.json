@@ -1,0 +1,4 @@
+{
+  "title": "MovieDB Redux Panel",
+  "description": "Frontend project for TMDB assignment, using Vite, React, Redux Toolkit, Router DOM, Axios."
+}

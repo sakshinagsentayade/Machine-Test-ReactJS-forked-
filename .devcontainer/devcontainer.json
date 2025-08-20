@@ -1,0 +1,13 @@
+{
+  "name": "React Vite Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:18",
+  "postCreateCommand": "pnpm install",
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode"]
+    }
+  }
+}
+
+  
